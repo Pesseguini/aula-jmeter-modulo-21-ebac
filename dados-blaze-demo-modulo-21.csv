@@ -1,0 +1,7 @@
+origem,destino,nome,endereco,cidade,estado,cep,cartao,mes,ano,nome_cartao
+Paris,Buenos Aires,Lucas Silva,Rua Vergueiro 100,Sao Paulo,SP,01504-000,4111111111111111,11,2028,Lucas Silva
+Boston,London,Juliana Matos,Av Paulista 500,Sao Paulo,SP,01310-000,5500000000000004,5,2029,Juliana Matos
+Portland,Rome,Carlos Souza,Rua XV de Novembro 200,Curitiba,PR,80020-310,4111111111111111,8,2027,Carlos Souza
+San Diego,Berlin,Mariana Costa,Av Atlantica 300,Rio de Janeiro,RJ,22021-001,5500000000000004,12,2030,Mariana Costa
+Philadelphia,New York,Rafael Lima,Rua da Bahia 400,Belo Horizonte,MG,30160-011,4111111111111111,3,2028,Rafael Lima
+São Paolo,Cairo,Fernanda Alves,Av Sete de Setembro 150,Salvador,BA,40060-001,5500000000000004,9,2029,Fernanda Alves
